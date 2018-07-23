@@ -1,0 +1,22 @@
+{
+  "app_message": {
+    "secret": "element odor lunch gap lava spike april receive insect update item sustain action robot over life plastic eyebrow immense galaxy soul adapt normal panda"
+  },
+  "gen_tx_file": {
+    "node_id": "71f850c90ff46df98da53b2948a7c3562d75ab09",
+    "ip": "0.0.0.0",
+    "validator": {
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "ViJzrw9Unk1XyDg4f0UQLFE4zfUaFh23wZZY0f31Qg0="
+      },
+      "power": "100",
+      "name": ""
+    },
+    "app_gen_tx": {
+      "name": "coscloud",
+      "address": "cosmosaccaddr1m0u78hks3hcf5c6szvlly7x40dkattyal0wy2w",
+      "pub_key": "cosmosaccpub1zcjduepq2c388tc02j0y647g8qu873gs93gn3n04rgtpmd7pjevdrl04ggxsf3vu6f"
+    }
+  }
+}
