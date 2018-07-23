@@ -1,0 +1,22 @@
+{
+  "app_message": {
+    "secret": "dizzy shallow diagram dress aspect plate sauce great novel discover two hundred home noodle cactus wrap wrist detail cool input online dad robust draft"
+  },
+  "gen_tx_file": {
+    "node_id": "d19c3803c155c52a716e80dafc51fb0c5716c1bb",
+    "ip": "0.0.0.0",
+    "validator": {
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "dDfn4GCTGkISiqrswwOznDgBLCI4fDecfaNt+dIoTRg="
+      },
+      "power": "100",
+      "name": ""
+    },
+    "app_gen_tx": {
+      "name": "torvalidator-fredy2",
+      "address": "cosmosaccaddr1nszqdvpnc7rc5mdaez5jej0ld7u449c5h4rhgk",
+      "pub_key": "cosmosaccpub1zcjduepqwsm70crqjvdyyy524tkvxqannsuqztpz8p7r08ra5dkln53gf5vqh2dj2p"
+    }
+  }
+}
