@@ -1,0 +1,22 @@
+{
+  "app_message": {
+    "secret": "bomb swallow region refuse melt avoid trade obtain orchard input remain slow attract prefer twin syrup swap clown glory clay defense slice cotton agree"
+  },
+  "gen_tx_file": {
+    "node_id": "740e282ed5553f82246c841225d7013f0c93a127",
+    "ip": "0.0.0.0",
+    "validator": {
+      "pub_key": {
+        "type": "tendermint/PubKeyEd25519",
+        "value": "OryaZczAHMXkeKGWQLJRm4oo6+hghYCNoh1nB+vmwu4="
+      },
+      "power": "100",
+      "name": ""
+    },
+    "app_gen_tx": {
+      "name": "torvalidator-fredy1",
+      "address": "cosmosaccaddr1d3hv7mqw2pfqajfgxfhsjxhqseverqc5qdw2hx",
+      "pub_key": "cosmosaccpub1zcjduepq827f5ewvcqwvterc5xtypvj3nw9z36lgvzzcprdzr4ns06lxcthqthvaxy"
+    }
+  }
+}
